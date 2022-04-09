@@ -1,4 +1,5 @@
-peso = float(input(''))
+pesoterra = float(input(''))
+peso = pesoterra / 9.8
 sol = peso * 273.42
 mercurio = peso * 3.78
 venus = 8.6 * peso
